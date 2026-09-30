@@ -15,7 +15,7 @@ Profissional de TI e técnico em redes de computadores pela escola técnica Juar
 - **Junior Front End Developer — OSF Digital** · dez. 2019–nov. 2021 — desenvolvimento front-end com React.
 - **Estagiário de Front-end — OSF Digital** · ago. 2019–dez. 2019
 - **Bolsista de iniciação científica — Advanced Research in Database** · fev. 2019–ago. 2019
-- **Bolsista — Centro de Tecnologia da UFC** · mar. 2018–dez. 2018 — desenvolvimento de um site para alocação dinâmica de salas com .NET, Entity Framework e PostgreSQL.
+- **Bolsista — Centro de Tecnologia da UFC** · mar. 2018–dez. 2018 — desenvolvimento de um site para alocação dinâmica de salas com Entity Framework e PostgreSQL.
 - **Bolsista — NUTEDS** · jun. 2017–dez. 2017 — apoio administrativo e desenvolvimento de um site para o grupo de pesquisa.
 - **Estagiário — G4Flex** · jul. 2016–mar. 2017
 
@@ -38,7 +38,7 @@ Profissional de TI e técnico em redes de computadores pela escola técnica Juar
 
 ### 🛠️ Tecnologias e competências
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Arquitetura de software · Entity Framework · bancos relacionais e NoSQL · aprendizado de máquina · software livre · desempenho web
 
@@ -75,7 +75,7 @@ I am interested in free software, IA, WEB, Backend, Mobile, data science and mac
 - **Junior Front End Developer — OSF Digital** · Dec 2019–Nov 2021 — front-end development with React.
 - **Front-end Intern — OSF Digital** · Aug 2019–Dec 2019
 - **Research Scholarship — Advanced Research in Database** · Feb 2019–Aug 2019
-- **Scholarship Holder — UFC Technology Center** · Mar 2018–Dec 2018 — developed a dynamic room allocation website using .NET, Entity Framework, and PostgreSQL.
+- **Scholarship Holder — UFC Technology Center** · Mar 2018–Dec 2018 — developed a dynamic room allocation website using Entity Framework and PostgreSQL.
 - **Scholarship Holder — NUTEDS** · Jun 2017–Dec 2017 — provided administrative support and developed a website for the research group.
 - **Intern — G4Flex** · Jul 2016–Mar 2017
 
@@ -98,7 +98,7 @@ I am interested in free software, IA, WEB, Backend, Mobile, data science and mac
 
 ### 🛠️ Technologies and skills
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C sharp and .NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Software architecture · Entity Framework · relational and NoSQL databases · machine learning · free software · web performance
 
